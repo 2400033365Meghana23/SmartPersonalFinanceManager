@@ -62,6 +62,9 @@ SmartPersonalFinanceManager
 6. Financial Summary
 7. Exit
 ```
+## Application Demo
+
+![Smart Personal Finance Manager Demo](./Add%20application%20demo%20screenshot)
 
 ## Database
 
